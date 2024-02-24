@@ -2,6 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "dependencyDashboard": true,
   "semanticCommitType": "fix",
-  "rebaseWhen": "never",
+  "rebaseWhen": "conflicted",
   "keepUpdatedLabel": "keep-updated"
 }
