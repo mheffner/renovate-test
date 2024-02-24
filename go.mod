@@ -4,7 +4,7 @@ go 1.21.3
 
 require (
 	github.com/DataDog/agent-payload/v5 v5.0.104
-	github.com/mheffner/go-simple-metrics v0.0.5
+	github.com/mheffner/go-simple-metrics v0.0.6
 )
 
 require (
