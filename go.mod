@@ -3,7 +3,7 @@ module github.com/mheffner/renovate-test
 go 1.21.3
 
 require (
-	github.com/DataDog/agent-payload/v5 v5.0.104
+	github.com/DataDog/agent-payload/v5 v5.0.105
 	github.com/mheffner/go-simple-metrics v0.0.5
 )
 
