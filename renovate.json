@@ -4,5 +4,11 @@
   "dependencyDashboard": true,
   "semanticCommitType": "fix",
   "rebaseWhen": "conflicted",
-  "keepUpdatedLabel": "keep-updated"
+  "keepUpdatedLabel": "keep-updated",
+  "packageRules": [
+    {
+      "matchPackageNames": ["node"],
+      "schedule": ["after 3pm on tuesday"]
+    }
+  ]
 }
